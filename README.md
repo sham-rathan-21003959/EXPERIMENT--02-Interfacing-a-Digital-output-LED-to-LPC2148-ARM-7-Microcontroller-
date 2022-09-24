@@ -144,7 +144,6 @@ int main()
        IO1SET = 0xffffffff;     // Make all the Port pins as high  
          delay_ms(1000);
 
-
        IO1CLR = 0xffffffff;     // Make all the Port pins as low  
          delay_ms(1000);
     }
@@ -154,12 +153,10 @@ int main()
 
 
 ## Output screen shots :
-![2022-09-24 (4)](https://user-images.githubusercontent.com/93587823/192090571-4a719dd2-46af-465e-bd07-297779db1198.png)
-![2022-09-24 (3)](https://user-images.githubusercontent.com/93587823/192090552-098a178b-9950-435e-a388-719cabddcbcf.png)
-![2022-09-24 (1)](https://user-images.githubusercontent.com/93587823/192090417-1a41eb28-db9e-458b-8db0-2ef2df222630.png)
+![1](https://user-images.githubusercontent.com/93587823/192100142-ca16ad8b-de44-4a86-9bf7-182b376b3a5d.jpeg)
+![2](https://user-images.githubusercontent.com/93587823/192100148-a73c5e8e-5322-4129-a68b-f1ed46f66b7f.jpeg)
+![3](https://user-images.githubusercontent.com/93587823/192100150-0654e33e-6d3d-4a4a-802e-f1c7e44c0b85.jpeg)
 
-
- 
 ## Result :
 Interfacing a digital output with ARM microcontroller is executed .
 
